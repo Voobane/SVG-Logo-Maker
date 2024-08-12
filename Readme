@@ -1,3 +1,11 @@
+Github Direct link: https://github.com/Voobane/SVG-Logo-Maker
+
+Hosted Github link: https://voobane.github.io/SVG-Logo-Maker/
+
+To run the application: node index.js
+
+To run the tests: npx jest shape.test.js
+
 # 10 Object-oriented Programming: SVG Logo Maker
 
 ## Your Task
@@ -40,7 +48,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 The following image shows a mock-up of the generated SVG given the following input entered by the user: `SVG` for the text, `white` for the text color, `circle` from the list of shapes, and `green` for the shape color. Note that this is just an image of the output SVG and not the SVG file itself:
 
-![Image showing a green circle with white text that reads "SVG.".](./Assets/images/10-oop-homework-demo.png)
+![Image showing a green circle with white text that reads "SVG.".](./instructions/Assets/images/10-oop-homework-demo.png)
 
 ## Additional Requirements
 
