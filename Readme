@@ -2,7 +2,7 @@ Github Direct link: https://github.com/Voobane/SVG-Logo-Maker
 
 To run the application: node index.js
 
-To run the tests: npx jest shape.test.js
+To run the tests: npx jest ./lib/shapes.test.js
 
 # 10 Object-oriented Programming: SVG Logo Maker
 
